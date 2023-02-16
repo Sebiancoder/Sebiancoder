@@ -3,7 +3,7 @@
   <p>Hi there! 👋</p>
 </div>
 
-I'm an undergraduate CS student at 🐝 Georgia Tech 🐝, with interests in Machine Learning 🖧, Artificial Intelligence 🧠, and Robotics 🤖. I have experience with Full Stack Development on both personal projects and working with student organizations such Data Science @ Georgia Tech.
+I'm an undergraduate CS student at 🐝 Georgia Tech 🐝, with interests in Machine Learning 🖧, Artificial Intelligence 🧠, and Robotics 🤖. I have experience with Full Stack Development on both personal projects and working with student organizations such as Data Science @ Georgia Tech.
 
 ---
 I have experience with:
@@ -28,6 +28,7 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/-Python-3776AB.svg?&style=flat&logo=python&logoColor=white)
 ![alt text](https://img.shields.io/badge/-PyTorch-EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white)
 ![alt text](https://img.shields.io/badge/-React-61DAFB.svg?&style=flat&logo=react&logoColor=white)
+![alt text](https://img.shields.io/badge/-ROS-22314E.svg?&style=flat&logo=ROS&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
 ---
 Check me out on:

@@ -30,6 +30,7 @@ I have experience with:
 ![alt text](https://img.shields.io/badge/-React-61DAFB.svg?&style=flat&logo=react&logoColor=white)
 ![alt text](https://img.shields.io/badge/-ROS-22314E.svg?&style=flat&logo=ROS&logoColor=white)
 ![alt text](https://img.shields.io/badge/-Scikit--learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white)
+![alt text](https://img.shields.io/badge/-TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white)
 ---
 Check me out on:
 ![alt text](https://img.shields.io/badge/Youtube-@sebastianjaskowski-FF0000.svg?&style=flat&logo=youtube)

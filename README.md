@@ -3,7 +3,7 @@
   <p>Hi there! 👋</p>
 </div>
 
-I'm an undergraduate CS student at 🐝 Georgia Tech 🐝, with interests in ML Research 🖧, Artificial Intelligence 🧠, and Robotics 🤖. 
+**I'm an undergraduate CS student at 🐝 Georgia Tech 🐝, with interests in ML Research 🖧, Artificial Intelligence 🧠, and Robotics 🤖.** 
 
 I have experience with Full Stack Development on both personal projects, in student organizations such as Data Science @ Georgia Tech, as well as in research settings.
 

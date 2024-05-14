@@ -51,7 +51,6 @@ I have experience with:
 
 ---
 Check me out on:
-![alt text](https://img.shields.io/badge/Youtube-@sebastianjaskowski-FF0000.svg?&style=flat&logo=youtube)
-![alt text](https://img.shields.io/badge/Instagram-@sebastian__jaskowski-E4405F.svg?&style=flat&logo=instagram)
+![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
